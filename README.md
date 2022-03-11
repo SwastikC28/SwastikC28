@@ -1,6 +1,6 @@
 ### Hi there, Im Swastik Chaudhary👋
 
-Here are some ideas to get you started:
+Here is something about myself:
 
 - 🌱 I’m currently learning React.
 - 💬 Ask me about anything related to nodejs...
