@@ -17,7 +17,7 @@ Hi there! I'm Swasik Chaudhary, a passionate software engineer working as SWE-1 
 - **Platforms:** AWS, Azure, GCP
 
 ## Connect with Me
-- LinkedIn: [linkedin.com/in/iswastikchaudhary](https://www.linkedin.com/in/iswastikchaudhary)
+- LinkedIn: [linkedin.com/in/iswastikchaudhary](https://www.linkedin.com/in/ichaudharyswastik)
 - GitHub: [github.com/swastikc28](https://github.com/swastikc28)
 - Email: iswastikchaudhary@gmail.com
 
